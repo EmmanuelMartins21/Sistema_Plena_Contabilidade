@@ -3,7 +3,7 @@ O presente projeto trata-se de uma ferramenta Desktop em desenvolvimento exclusi
 Até então, a aplicação tem esse Layout apresentado abaixo:<br>
 ![image](https://github.com/EmmanuelMartins21/Sistema_Plena_Contabilidade/blob/master/Sistema_Plena_Contabilidade/Imagens/FormMain.PNG)<br>
 
-O mesmo já possui uma parte funcional, que no caso seria parte da solução voltada a WEB, onde o usuário clica em um botão e é redirecionado a página desejada. Segue abaixo: <br>
+O mesmo já possui uma parte funcional, que no caso seria parte do botão "Plena", onde sua maior parte é voltada a WEB, onde o usuário clica em um botão e é redirecionado a página desejada. Segue abaixo: <br>
 ![image](https://github.com/EmmanuelMartins21/Sistema_Plena_Contabilidade/blob/master/Sistema_Plena_Contabilidade/Imagens/FormPlena.PNG)<br>
 
 ## Tecnologias 
