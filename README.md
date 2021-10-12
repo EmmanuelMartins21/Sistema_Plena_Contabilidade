@@ -1,2 +1,12 @@
 # Sistema_Plena_Contabilidade
-Sistema facilitador para o uso rotineiro, desenvolvido exclusivamente para um contador autonomo. 
+O presente projeto trata-se de uma ferramenta em desenvolvimento exclusivo para um contador autônomo. O seu intuito é fornecer acesso a dados essenciais de clientes salvos em nuvem, além de sites úteis de maneira rápida e eficiente. 
+Até então, a aplicação tem esse Layout apresentado abaixo:<br>
+![image]()<br>
+
+
+## Tecnologias 
+O mesmo está sendo desenvolvido com C# utilizando o Windows Forms. Além disso, ele conta como apoio, o serviço de nuvem o Google Drive, onde estará salvo arquivos desejados pelo cliente.  
+
+## Contatos 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-cosme-martins-bento-3963bb1b9/ 'Contato pelo LinkedIn')
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:emmanuelbento6@gmail.com 'Contato via Email')
