@@ -25,7 +25,7 @@ namespace Sistema_Plena_Contabilidade
 
         private void buttonRelacaoClientes_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("");
+            //System.Diagnostics.Process.Start("");
         }
 
         private void buttonDASN_Click(object sender, EventArgs e)

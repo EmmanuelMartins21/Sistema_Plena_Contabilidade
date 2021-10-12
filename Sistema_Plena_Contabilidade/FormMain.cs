@@ -50,5 +50,16 @@ namespace Sistema_Plena_Contabilidade
             f.ShowDialog();
 
         }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void link_Desc_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/EmmanuelMartins21/Sistema_Plena_Contabilidade/blob/master/README.md");
+
+        }
     }
 }
