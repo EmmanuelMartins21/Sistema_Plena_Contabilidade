@@ -1,7 +1,7 @@
 # Sistema_Plena_Contabilidade
-O presente projeto trata-se de uma ferramenta em desenvolvimento exclusivo para um contador autônomo. O seu intuito é fornecer acesso a dados essenciais de clientes salvos em nuvem, além de sites úteis de maneira rápida e eficiente. 
+O presente projeto trata-se de uma ferramenta Desktop em desenvolvimento exclusivo para um contador autônomo. O seu intuito é fornecer acesso a dados essenciais de clientes salvos em nuvem, além de sites úteis de maneira rápida e eficiente. 
 Até então, a aplicação tem esse Layout apresentado abaixo:<br>
-![image]()<br>
+![image](https://github.com/EmmanuelMartins21/Sistema_Plena_Contabilidade/blob/master/Sistema_Plena_Contabilidade/Imagens/FormMain.PNG)<br>
 
 
 ## Tecnologias 
