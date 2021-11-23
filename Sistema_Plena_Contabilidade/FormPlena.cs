@@ -47,5 +47,29 @@ namespace Sistema_Plena_Contabilidade
         {
             System.Diagnostics.Process.Start("https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/atividades-permitidas");
         }
+
+        private void buttonPastaCliente_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://drive.google.com/drive/folders/11Zix1DwCGUhK-DNjS5mwq4ELGJQOsF1-");
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                System.Diagnostics.Process.Start("https://drive.google.com/drive/folders/11Zix1DwCGUhK-DNjS5mwq4ELGJQOsF1-");
+
+            }
+            catch(Exception ex)
+            {
+                ex.Message.ToString();
+            }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
